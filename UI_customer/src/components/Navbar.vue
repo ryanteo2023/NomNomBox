@@ -4,6 +4,7 @@
     <RouterLink to="/recipes">Recipes</RouterLink>
     <RouterLink to="/plans">Plans</RouterLink>
     <RouterLink to="/contact">Contact</RouterLink>
+    <RouterLink to="/chatbot">Chatbot</RouterLink>
   </nav>
 </template>
 
